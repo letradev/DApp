@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "859826726094",
+    "firebase_url": "https://dapp-826c7.firebaseio.com",
+    "project_id": "dapp-826c7",
+    "storage_bucket": "dapp-826c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859826726094:android:949a530b560c0131",
+        "android_client_info": {
+          "package_name": "com.dapp.dapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859826726094-jqj8hbhn2gv02b6a8bmr7ht6njmmcho0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaGDmqBmnssJpuIU5N_XeulkzGMchkbuc"
+        },
+        {
+          "current_key": "AIzaSyCaGDmqBmnssJpuIU5N_XeulkzGMchkbuc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
