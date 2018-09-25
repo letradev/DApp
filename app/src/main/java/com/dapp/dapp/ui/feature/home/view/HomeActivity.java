@@ -7,6 +7,7 @@ import android.view.View;
 import com.dapp.dapp.R;
 import com.dapp.dapp.ui.component.BaseActivity;
 import com.dapp.dapp.ui.feature.map.view.MapActivity;
+import com.dapp.dapp.ui.feature.settings.view.SettingsActivity;
 
 public class HomeActivity extends BaseActivity {
 
@@ -20,5 +21,12 @@ public class HomeActivity extends BaseActivity {
 
     public void onDriverClick(View view) {
         moveToActivity(MapActivity.class);
+    }
+
+    public void onSettingsClick(View view) {
+        moveToActivity(SettingsActivity.class);
+    }
+
+    public void onCustomerClick(View view) {
     }
 }
